@@ -1,2 +1,10 @@
 # My-Portfolio
-All my Personal Projects
+## Index
+
+This repository holds all my personal projects that ive done over the years.
+
+Personal Programming Projects
+  * Python
+     * Exploratory Data Analysis
+     * Machine Learning
+  * Android Mobile Development
