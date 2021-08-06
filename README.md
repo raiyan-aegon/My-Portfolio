@@ -19,9 +19,9 @@ i can and conducting analysis on topics that interest me.
 
 ## Contact Me
 
-| Socials |
-|-------------------------|
-| Twitter   | [@raiyandev](https://twitter.com/@raiyandev)|   
-| Email     | raiyan.dev6@gmail.com|                                            |
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |                                          |
 
 
