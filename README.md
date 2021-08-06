@@ -4,7 +4,7 @@
 This repository holds all my personal projects that ive done over the years.
 
 Personal Programming Projects
-  * [Python](https://github.com/raiyan-aegon/Python).
+  * [Python](https://github.com/raiyan-aegon/My-Portfolio/tree/main/Python).
      * Exploratory Data Analysis.
      * Machine Learning.
   * Android Mobile Development.
