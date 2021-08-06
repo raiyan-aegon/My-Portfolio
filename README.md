@@ -19,8 +19,8 @@ i can and conducting analysis on topics that interest me.
 
 ## Contact Me
 
-|                 Socicals                                |
-|           |       :---                                  |
+|                 Socials                                |
+|--------------------------------------------------------|
 | Twitter   | [@raiyandev](https://twitter.com/@raiyandev)|   
 | Linkedln  |                                             |
 
