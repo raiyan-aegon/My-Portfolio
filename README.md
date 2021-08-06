@@ -22,6 +22,7 @@ i can and conducting analysis on topics that interest me.
 | Socials      | Description |
 | ----------- | ----------- |
 | Twitter      | [@raiyandev](https://twitter.com/raiyandev)|
-| Paragraph   | Text        |
+| Linkedln   | [Raiyan Mukhtar](http://www.linkedin.com/in/raiyan-mukhtar-82651b1ab)|
+| Email      | raiyan.dev@gmail.com 📧|
 
 
