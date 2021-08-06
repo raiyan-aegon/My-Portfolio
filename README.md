@@ -21,7 +21,7 @@ i can and conducting analysis on topics that interest me.
 
 | Socials      | Description |
 | ----------- | ----------- |
-| Twitter      | [@raiyandev] [https://twitter.com/raiyandev]|
+| Twitter      | [@raiyandev](https://twitter.com/raiyandev)|
 | Paragraph   | Text        |
 
 
